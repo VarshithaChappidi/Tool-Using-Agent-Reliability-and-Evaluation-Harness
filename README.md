@@ -100,3 +100,7 @@ Set `MLFLOW_TRACKING_URI` to use a remote tracking server. Without it, MLflow us
 - Add idempotency keys, per-tool timeout budgets, circuit breakers, structured traces, and sensitive-data redaction.
 - Expand evaluation with adversarial paraphrases, multi-turn conversations, tool schema drift, and human-reviewed task-quality labels.
 - Add deployment configuration, secrets management, tenant isolation, and integration tests against a sandbox service before connecting real systems.
+
+## Portfolio
+
+Explore my AI engineering experience, projects, and publication on my [live portfolio](https://varshithaportfolio-ai-engineer.vercel.app).
